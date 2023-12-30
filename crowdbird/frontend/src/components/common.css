@@ -1,0 +1,14 @@
+.btn-warning-disabled{
+    background-color: none;
+    border-color: #000000;
+    cursor: not-allowed !important;
+    
+}
+
+mark.white{
+    background-color: none;
+    font-family: "Rubik", sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
